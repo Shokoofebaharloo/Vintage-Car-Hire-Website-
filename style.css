@@ -1,0 +1,14 @@
+#header{
+    display:flex;
+    justify-content: center;
+
+}
+
+  .figure {
+    margin-top: 56px;
+  }
+
+  footer h6{
+    justify-content: center;
+    display:flex
+  }
